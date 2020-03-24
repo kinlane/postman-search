@@ -1,40 +1,187 @@
-<html>
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }} {% endif %}</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="stylesheet" href="/{{ site.github_repo }}/assets/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="/{{ site.github_repo }}/assets/css/main.css" />
-  <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
-  <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <script type="text/javascript" async="" src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/f.txt"></script><script type="text/javascript" async="" src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/munchkin.js"></script><script type="text/javascript" async="" src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/d53y3iy3xwwu.js"></script><script async="" src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/analytics.js"></script>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width,initial-scale=1">
+   <title>COVID-19 Testing Locations</title>
+   <link rel="shortcut icon" href="https://www.postman.com/favicon.ico">
+   <link rel="icon" sizes="192x192" href="https://www.postman.com/img/touch-icons/touch-icon-192x192.png">
+   <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.postman.com/img/touch-icons/apple-touch-icon-180x180-precomposed.png">
+   <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.postman.com/img/touch-icons/apple-touch-icon-152x152-precomposed.png">
+   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.postman.com/img/touch-icons/apple-touch-icon-144x144-precomposed.png">
+   <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.postman.com/img/touch-icons/apple-touch-icon-120x120-precomposed.png">
+   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.postman.com/img/touch-icons/apple-touch-icon-114x114-precomposed.png">
+   <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.postman.com/img/touch-icons/apple-touch-icon-76x76-precomposed.png">
+   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.postman.com/img/touch-icons/apple-touch-icon-72x72-precomposed.png">
+   <link rel="apple-touch-icon-precomposed" href="https://www.postman.com/img/touch-icons/apple-touch-icon-precomposed.png">
+   <link rel="dns-prefetch" href="https://google.com/" crossorigin="">
+   <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/" crossorigin="">
+   <link rel="dns-prefetch" href="https://www.google-analytics.com/" crossorigin="">
+   <link rel="preconnect" href="https://stats.g.doubleclick.net/" crossorigin="">
+   <link rel="preconnect" href="https://googletagmanager.com/" crossorigin="">
+   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+   <link href="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/css" rel="stylesheet">
 
-  <!-- Icons -->
-  <link rel="shortcut icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
-	<link rel="icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
+   <meta name="description" content="Crowdsourced COVID-19 testing location data using Google Sheets, Postman, and GitHub.">
+   <meta property="og:description" content="Crowdsourced COVID-19 testing location data using Google Sheets, Postman, and GitHub.">
+   <meta name="twitter:description" value="Crowdsourced COVID-19 testing location data using Google Sheets, Postman, and GitHub.">
 
-  <!-- JQuery -->
-  <script src="/{{ site.github_repo }}/js/jquery-latest.min.js" type="text/javascript" charset="utf-8"></script>
-  <script src="/{{ site.github_repo }}/js/utility.js" type="text/javascript" charset="utf-8"></script>
+   <meta property="og:url" content="https://www.postman.com">
 
-  <!-- Github.js - http://github.com/michael/github -->
-  <script src="/{{ site.github_repo }}/js/github.js" type="text/javascript" charset="utf-8"></script>
-  <script src="/{{ site.github_repo }}/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
-  <!-- Cookies.js - http://github.com/ScottHamper/Cookies -->
-  <script src="/{{ site.github_repo }}/js/cookies.js"></script>
+   <meta property="og:title" content="COVID-19 Testing Locations">
+   <meta property="og:site_name" content="Postman">
+   <meta property="og:image" content="https://www.postman.com/img/v2/logo-glyph.png">
+   <meta property="og:type" content="website">
 
-  <!-- D3.js http://github.com/d3/d3 -->
-  <script src="/{{ site.github_repo }}/js/d3.v3.min.js"></script>
+   <meta name="twitter:title" value="COVID-19 Testing Locations">
+   <meta name="twitter:card" content="summary">
+   <meta name="twitter:domain" value="https://www.postman.com">
+   <meta name="twitter:image" content="https://www.postman.com/img/v2/logo-glyph.png">
+   <meta name="twitter:site" content="@getpostman">
 
-  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
-  <script src="/{{ site.github_repo }}/js/js-yaml.min.js"></script>
+   <link href="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/vendor.css" media="all" rel="stylesheet" type="text/css">
+   <link href="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/platformVendor.css" media="all" rel="stylesheet" type="text/css">
+   <link href="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/main.css" media="all" rel="stylesheet" type="text/css">
+   <!--[if lt IE 9]>
+   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+   <![endif]--><script type="text/javascript" async="" src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/analytics.js"></script><script async="" src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/gtm.js"></script><script src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/polyfill.min.js"></script><script type="text/javascript" async="" src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/munchkin(1).js"></script>
+   <style class="blockbyte-bs-style" data-name="content">body>div#blockbyte-bs-indicator>div{opacity:0;pointer-events:none}body>iframe#blockbyte-bs-sidebar.blockbyte-bs-visible,body>iframe#blockbyte-bs-overlay.blockbyte-bs-visible{opacity:1;pointer-events:auto}body.blockbyte-bs-noscroll{overflow:hidden !important}body>div#blockbyte-bs-indicator>div{position:absolute;transform:translate3d(-40px, 0, 0);top:0;left:0;width:40px !important;height:100%;background:rgba(0,0,0,0.5);border-radius:0 10px 10px 0;transition:opacity 0.3s, transform 0.3s;z-index:2}body>div#blockbyte-bs-indicator>div>span{-webkit-mask:no-repeat center/32px;-webkit-mask-image:url(chrome-extension://jdbnofccmhefkmjbkkdkfiicjkgofkdh/img/icon-bookmark.svg);background-color:#ffffff;position:absolute;display:block;top:0;left:0;width:100%;height:100%}body>div#blockbyte-bs-indicator[data-pos='right']{left:auto;right:0}body>div#blockbyte-bs-indicator[data-pos='right']>div{transform:translate3d(40px, 0, 0);left:auto;right:0;border-radius:10px 0 0 10px}body>div#blockbyte-bs-indicator.blockbyte-bs-fullHeight>div{border-radius:0}body>div#blockbyte-bs-indicator.blockbyte-bs-hover>div{transform:translate3d(0, 0, 0);opacity:1}body>div#blockbyte-bs-indicator[data-pos='left'].blockbyte-bs-has-lsb{height:100% !important;top:0 !important}body>div#blockbyte-bs-indicator[data-pos='left'].blockbyte-bs-has-lsb>div{background:transparent}body>div#blockbyte-bs-indicator[data-pos='left'].blockbyte-bs-has-lsb>div>span{-webkit-mask-position-y:20px}body>iframe#blockbyte-bs-sidebar{width:350px;max-width:none;height:0;z-index:2147483646;background-color:rgba(255,255,255,0.8) !important;border:none;display:block !important;transform:translate3d(-350px, 0, 0);will-change:width, height, opacity, transform;transition:width 0s 0.3s, height 0s 0.3s, opacity 0.3s, transform 0.3s}body>iframe#blockbyte-bs-sidebar[data-pos='right']{left:auto;right:0;transform:translate3d(350px, 0, 0)}body>iframe#blockbyte-bs-sidebar.blockbyte-bs-visible{width:calc(100% + 350px);height:100%;transform:translate3d(0, 0, 0);transition:opacity 0.3s, transform 0.3s}body>iframe#blockbyte-bs-sidebar.blockbyte-bs-hideMask{background:none !important}body>iframe#blockbyte-bs-sidebar.blockbyte-bs-hideMask:not(.blockbyte-bs-hover){width:calc(350px + 50px)}body>iframe#blockbyte-bs-overlay{width:100%;max-width:none;height:100%;z-index:2147483647;border:none;background:rgba(0,0,0,0.5) !important;transition:opacity 0.3s}</style>
+   <link id="mktoForms2BaseStyle" rel="stylesheet" type="text/css" href="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/forms2.css">
+   <link id="mktoForms2ThemeStyle" rel="stylesheet" type="text/css" href="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/forms2-theme-simple.css">
+   <style>/* Add your custom CSS below */
+      .mktoFormRow {
+      width: 85% !important;
+      margin: 15px auto;
+      }
+      .mktoForm .mktoRequiredField .mktoAsterix{
+      display: inline-block;
+      float: left !important;
+      padding: 1px 0;
+      }
+      /*Asterik */
+      @media only screen and (max-width: 480px)
+      .mktoForm .mktoFormRow .mktoRequiredField .mktoAsterix {
+      position: relative;
+      right: top;
+      top: 39px;
+      right: 20px;
+      }
+      .mktoForm .mktoAsterix {
+      color: orange
+      }
+      .mktoForm fieldset {}
+      .mktoForm fieldset legend{}
+      .mktoForm input[type=text],
+      .mktoForm input[type=url],
+      .mktoForm input[type=email],
+      .mktoForm input[type=tel],
+      .mktoForm input[type=number],
+      .mktoForm input[type=date]{}
+      .mktoForm input[type=text],
+      .mktoForm input[type=url],
+      .mktoForm input[type=email],
+      .mktoForm input[type=tel],
+      .mktoForm input[type=number],
+      .mktoForm input[type=date],
+      .mktoForm textarea.mktoField,
+      .mktoForm select.mktoField {
+      min-width: 80%;
+      font-size: 14px;
+      padding: 18px;
+      display: block;
+      border-radius: 3px;
+      border: 2px solid #E1E1E1;
+      }
+      .mktoForm input[type=text]:focus,
+      .mktoForm input[type=url]:focus,
+      .mktoForm input[type=email]:focus,
+      .mktoForm input[type=tel]:focus,
+      .mktoForm input[type=number]:focus,
+      .mktoForm input[type=date]:focus,
+      .mktoForm select.mktoField:focus,
+      .mktoForm textarea.mktoField:focus{
+      border: 2px solid #EF5B25;
+      }
+      .mktoForm .mktoButtonWrap.mktoSimple .mktoButton {
+      width:100%;
+      }
+      .mktoForm .mktoButtonWrap.mktoSimple .mktoButton{
+      padding: 18px !important;
+      display: block;
+      border-radius: 3px !important;
+      background: #EF5B25 !important;
+      color: #fff;
+      border: 1px solid #EF5B25 !important;
+      font-size: 18px !important;
+      font-weight: 600 !important;
+      font-family: 'Open Sans', sans-serif !important;
+      -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
+      }
+      .mktoForm .mktoButtonWrap.mktoSimple .mktoButton:hover {
+      background: #D44E27 !important;
+      border: 1px solid #D44E27 !important;
+      }
+      .mktoForm input[type=text], .mktoForm input[type=url], .mktoForm input[type=email], .mktoForm input[type=tel], .mktoForm input[type=number], .mktoForm input[type=date], .mktoForm textarea.mktoField, .mktoForm select.mktoField {
+      width:100% !important;
+      }
+      .mktoFormCol, .mktoFieldWrap {
+      width:100% !important;
+      margin: 0 auto;
+      }
+      .mktoForm .mktoOffset {
+      float: left;
+      height:0 !important;
+      width:10px;
+      }
+      .mktoButtonWrap {
+      margin-left:0 !important;
+      }
+      .mktoButtonRow {
+      width:85% !important;
+      margin: 15px auto 0 auto;
+      text-align:center;
+      }
+      @media (max-width: 525px) {
+      .mktoFormRow, .mktoButtonRow {
+      width: 100% !important;
+      }
+      }
+      .mktoForm .mktoButtonWrap.mktoGlow .mktoButton {
+      background-image: none !important;
+      box-shadow: 0 5px 8px rgba(0, 0, 0, 0.15) !important;
+      appearance: none;
+      border: 1px solid transparent !important;
+      border-radius: 3px !important;
+      cursor: pointer;
+      display: inline-block;
+      vertical-align: middle;
+      font-size: 16px !important;
+      font-weight: 700 !important;
+      line-height: 1.5 !important;
+      margin: 8px 0 8px 0;
+      position: relative;
+      transition: 0.2s ease-in-out !important;
+      color: white !important;
+      background-color: #FF6C37 !important;
+      border-color: #FF6C37 !important;
+      padding: 13px 32px !important;
+      text-align: center;
+      }
+      .mktoForm .mktoButtonWrap.mktoGlow .mktoButton:hover {
+      opacity: 0.5 !important;
+      }
+      .mktoForm .mktoGutter {
+      height: 0.3em;
+      }
+      #commentCapture {
+      height: 120px !important;
+      }
+   </style>
+   <style></style>
+   <script src="https://kinlane-productions.s3.amazonaws.com/postman-template/covid-19-testing-locations/f(1).txt"></script>
 
-  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
-  <script src="/{{ site.github_repo }}/js/tabletop.js" type="text/javascript"></script>
-
-  <style type="text/css">
-    .gist {width:100% !important;}
-    .gist-file
-    .gist-data {max-height: 500px;max-width: 500px;}
-  </style>
+   <script src="https://covid-19-testing.github.io/locations/js/map-data-html.js"></script>
+   <script src="https://covid-19-testing.github.io/locations/js/usmap.js"></script>
 
 </head>
