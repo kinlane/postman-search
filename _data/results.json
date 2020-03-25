@@ -2844,9 +2844,6 @@
     "owner_type": "User"
   },
   {
-    "user": "larrybotha",
-    "repo": "postman-rest-api-testing",
-    "pulled": "User",
     "id": 162043988,
     "name": "postman-rest-api-testing",
     "full_name": "larrybotha/postman-rest-api-testing",
@@ -2854,15 +2851,15 @@
     "fork": false,
     "created_at": "2018-12-16T21:48:05Z",
     "updated_at": "2020-02-28T13:26:54Z",
+    "stargazers_count": 10,
+    "watchers_count": 10,
     "forks": 7,
-    "open_issues": 0,
     "watchers": 10,
-    "network_count": 7,
-    "subscribers_count": 1,
+    "score": 1,
     "owner_id": 1510520,
     "owner_login": "larrybotha",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/1510520?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "ip11",
