@@ -333,9 +333,6 @@
     "pulled": 1
   },
   {
-    "user": "postmanlabs",
-    "repo": "swagger2-postman2",
-    "pulled": "Organization",
     "id": 123451298,
     "name": "swagger2-postman2",
     "full_name": "postmanlabs/swagger2-postman2",
@@ -343,15 +340,15 @@
     "fork": false,
     "created_at": "2018-03-01T15:11:37Z",
     "updated_at": "2020-02-28T17:39:02Z",
+    "stargazers_count": 30,
+    "watchers_count": 30,
     "forks": 27,
-    "open_issues": 21,
     "watchers": 30,
-    "network_count": 27,
-    "subscribers_count": 7,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "microsoftgraph",
