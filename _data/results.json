@@ -219,9 +219,6 @@
     "owner_type": "User"
   },
   {
-    "user": "aaronpowell",
-    "repo": "Postman",
-    "pulled": "User",
     "id": 1819808,
     "name": "Postman",
     "full_name": "aaronpowell/Postman",
@@ -229,15 +226,15 @@
     "fork": false,
     "created_at": "2011-05-30T02:57:53Z",
     "updated_at": "2020-02-24T20:41:18Z",
+    "stargazers_count": 144,
+    "watchers_count": 144,
     "forks": 18,
-    "open_issues": 0,
     "watchers": 144,
-    "network_count": 18,
-    "subscribers_count": 5,
+    "score": 1,
     "owner_id": 434140,
     "owner_login": "aaronpowell",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/434140?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "postmanlabs",
