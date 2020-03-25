@@ -1140,9 +1140,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "postmanlabs",
-    "repo": "schemas",
-    "pulled": "Organization",
     "id": 38450888,
     "name": "schemas",
     "full_name": "postmanlabs/schemas",
@@ -1150,15 +1147,15 @@
     "fork": false,
     "created_at": "2015-07-02T18:53:04Z",
     "updated_at": "2020-03-22T07:22:16Z",
+    "stargazers_count": 23,
+    "watchers_count": 23,
     "forks": 20,
-    "open_issues": 20,
     "watchers": 23,
-    "network_count": 20,
-    "subscribers_count": 17,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "carlowahlstedt",
