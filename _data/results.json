@@ -3066,9 +3066,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "thewheat",
-    "repo": "intercom-postman-collection",
-    "pulled": "User",
     "id": 107799476,
     "name": "intercom-postman-collection",
     "full_name": "thewheat/intercom-postman-collection",
@@ -3076,15 +3073,15 @@
     "fork": false,
     "created_at": "2017-10-21T17:10:11Z",
     "updated_at": "2020-02-04T14:08:51Z",
+    "stargazers_count": 7,
+    "watchers_count": 7,
     "forks": 7,
-    "open_issues": 0,
     "watchers": 7,
-    "network_count": 7,
-    "subscribers_count": 0,
+    "score": 1,
     "owner_id": 892961,
     "owner_login": "thewheat",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/892961?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "dilsonpereira",
