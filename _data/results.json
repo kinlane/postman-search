@@ -16842,5 +16842,23 @@
     "owner_login": "Ne4istb",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/3274127?v=4",
     "pulled": 1
+  },
+  {
+    "id": 116392905,
+    "name": "serverless-newman",
+    "full_name": "Mgutjahr/serverless-newman",
+    "description": "Execute newman (postman) test on AWS lambda",
+    "fork": false,
+    "created_at": "2018-01-05T14:23:18Z",
+    "updated_at": "2020-02-17T03:56:10Z",
+    "stargazers_count": 9,
+    "watchers_count": 9,
+    "forks": 2,
+    "watchers": 9,
+    "score": 1,
+    "owner_id": 3747922,
+    "owner_login": "Mgutjahr",
+    "owner_avatar_url": "https://avatars2.githubusercontent.com/u/3747922?v=4",
+    "pulled": 1
   }
 ]
