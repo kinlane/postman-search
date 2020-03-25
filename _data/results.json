@@ -2442,9 +2442,6 @@
     "owner_type": "User"
   },
   {
-    "user": "sivcan",
-    "repo": "ResponseToFile-Postman",
-    "pulled": "User",
     "id": 152237532,
     "name": "ResponseToFile-Postman",
     "full_name": "sivcan/ResponseToFile-Postman",
@@ -2452,15 +2449,15 @@
     "fork": false,
     "created_at": "2018-10-09T11:12:41Z",
     "updated_at": "2020-03-12T15:29:09Z",
+    "stargazers_count": 15,
+    "watchers_count": 15,
     "forks": 7,
-    "open_issues": 0,
     "watchers": 15,
-    "network_count": 7,
-    "subscribers_count": 2,
+    "score": 1,
     "owner_id": 12631777,
     "owner_login": "sivcan",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/12631777?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "Autodesk-Forge",
