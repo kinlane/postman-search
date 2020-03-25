@@ -237,9 +237,6 @@
     "pulled": 1
   },
   {
-    "user": "postmanlabs",
-    "repo": "postman-code-generators",
-    "pulled": "Organization",
     "id": 181494579,
     "name": "postman-code-generators",
     "full_name": "postmanlabs/postman-code-generators",
@@ -247,15 +244,15 @@
     "fork": false,
     "created_at": "2019-04-15T13:38:39Z",
     "updated_at": "2020-03-25T18:06:03Z",
-    "forks": 65,
-    "open_issues": 50,
+    "stargazers_count": 134,
+    "watchers_count": 134,
+    "forks": 67,
     "watchers": 134,
-    "network_count": 65,
-    "subscribers_count": 9,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "lojabasico",
