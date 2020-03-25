@@ -1080,9 +1080,6 @@
     "owner_type": "User"
   },
   {
-    "user": "flftfqwxf",
-    "repo": "mockserver",
-    "pulled": "User",
     "id": 67780262,
     "name": "mockserver",
     "full_name": "flftfqwxf/mockserver",
@@ -1090,15 +1087,15 @@
     "fork": false,
     "created_at": "2016-09-09T08:17:19Z",
     "updated_at": "2020-03-05T10:26:03Z",
+    "stargazers_count": 317,
+    "watchers_count": 317,
     "forks": 97,
-    "open_issues": 3,
     "watchers": 317,
-    "network_count": 97,
-    "subscribers_count": 32,
+    "score": 1,
     "owner_id": 5468564,
     "owner_login": "flftfqwxf",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/5468564?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "numberly",
