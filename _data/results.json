@@ -17480,5 +17480,23 @@
     "owner_login": "daydreamdev",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/48749581?v=4",
     "pulled": 1
+  },
+  {
+    "id": 142982973,
+    "name": "burp-extension-postman-integration",
+    "full_name": "tagomaru/burp-extension-postman-integration",
+    "description": "Postman Integration is an extension for burp to generate Postman collection fomat json file.",
+    "fork": false,
+    "created_at": "2018-07-31T08:07:51Z",
+    "updated_at": "2020-01-27T22:34:01Z",
+    "stargazers_count": 5,
+    "watchers_count": 5,
+    "forks": 2,
+    "watchers": 5,
+    "score": 1,
+    "owner_id": 17696068,
+    "owner_login": "tagomaru",
+    "owner_avatar_url": "https://avatars3.githubusercontent.com/u/17696068?v=4",
+    "pulled": 1
   }
 ]
