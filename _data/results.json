@@ -16968,5 +16968,23 @@
     "owner_login": "dkordik",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/14157?v=4",
     "pulled": 1
+  },
+  {
+    "id": 49441118,
+    "name": "techtalk-integration-tests-postman",
+    "full_name": "smartive/techtalk-integration-tests-postman",
+    "description": "Small demo-api to show (automated) integration tests with postman and newman",
+    "fork": false,
+    "created_at": "2016-01-11T17:06:06Z",
+    "updated_at": "2018-04-06T09:30:00Z",
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "forks": 3,
+    "watchers": 2,
+    "score": 1,
+    "owner_id": 2870077,
+    "owner_login": "smartive",
+    "owner_avatar_url": "https://avatars3.githubusercontent.com/u/2870077?v=4",
+    "pulled": 1
   }
 ]
