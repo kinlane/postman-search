@@ -1671,9 +1671,6 @@
     "owner_type": "User"
   },
   {
-    "user": "DevMountain",
-    "repo": "endpoint-testing-mini",
-    "pulled": "Organization",
     "id": 104804742,
     "name": "endpoint-testing-mini",
     "full_name": "DevMountain/endpoint-testing-mini",
@@ -1681,15 +1678,15 @@
     "fork": false,
     "created_at": "2017-09-25T21:38:33Z",
     "updated_at": "2019-11-19T02:50:58Z",
+    "stargazers_count": 2,
+    "watchers_count": 2,
     "forks": 287,
-    "open_issues": 0,
     "watchers": 2,
-    "network_count": 287,
-    "subscribers_count": 8,
+    "score": 1,
     "owner_id": 5432151,
     "owner_login": "DevMountain",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/5432151?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "TitorX",
