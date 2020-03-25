@@ -591,9 +591,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "thecopy",
-    "repo": "apiary2postman",
-    "pulled": "User",
     "id": 20320955,
     "name": "apiary2postman",
     "full_name": "thecopy/apiary2postman",
@@ -601,15 +598,15 @@
     "fork": false,
     "created_at": "2014-05-30T07:35:11Z",
     "updated_at": "2020-03-24T17:01:28Z",
+    "stargazers_count": 186,
+    "watchers_count": 186,
     "forks": 25,
-    "open_issues": 4,
     "watchers": 186,
-    "network_count": 25,
-    "subscribers_count": 4,
+    "score": 1,
     "owner_id": 1847286,
     "owner_login": "thecopy",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/1847286?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "apigee",
