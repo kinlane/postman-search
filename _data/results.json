@@ -17022,5 +17022,23 @@
     "owner_login": "matt-ball",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/8490181?v=4",
     "pulled": 1
+  },
+  {
+    "id": 204805460,
+    "name": "newman-action",
+    "full_name": "matt-ball/newman-action",
+    "description": "Use Postman's headless collection runner, Newman, via a GitHub Action.",
+    "fork": false,
+    "created_at": "2019-08-27T23:08:19Z",
+    "updated_at": "2020-03-05T02:53:14Z",
+    "stargazers_count": 20,
+    "watchers_count": 20,
+    "forks": 3,
+    "watchers": 20,
+    "score": 1,
+    "owner_id": 8490181,
+    "owner_login": "matt-ball",
+    "owner_avatar_url": "https://avatars2.githubusercontent.com/u/8490181?v=4",
+    "pulled": 1
   }
 ]
