@@ -729,9 +729,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "fullstorydev",
-    "repo": "grpcui",
-    "pulled": "Organization",
     "id": 160253491,
     "name": "grpcui",
     "full_name": "fullstorydev/grpcui",
@@ -739,15 +736,15 @@
     "fork": false,
     "created_at": "2018-12-03T21:03:58Z",
     "updated_at": "2020-03-25T08:50:07Z",
+    "stargazers_count": 682,
+    "watchers_count": 682,
     "forks": 56,
-    "open_issues": 14,
     "watchers": 682,
-    "network_count": 56,
-    "subscribers_count": 12,
+    "score": 1,
     "owner_id": 33756472,
     "owner_login": "fullstorydev",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/33756472?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "jnewmano",
