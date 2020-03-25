@@ -1791,9 +1791,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "loadimpact",
-    "repo": "postman-to-loadimpact",
-    "pulled": "Organization",
     "id": 58462109,
     "name": "postman-to-loadimpact",
     "full_name": "loadimpact/postman-to-loadimpact",
@@ -1801,15 +1798,15 @@
     "fork": false,
     "created_at": "2016-05-10T13:07:11Z",
     "updated_at": "2020-02-11T08:51:18Z",
+    "stargazers_count": 26,
+    "watchers_count": 26,
     "forks": 9,
-    "open_issues": 2,
     "watchers": 26,
-    "network_count": 9,
-    "subscribers_count": 6,
+    "score": 1,
     "owner_id": 2271486,
     "owner_login": "loadimpact",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/2271486?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "davidevernizzi",
