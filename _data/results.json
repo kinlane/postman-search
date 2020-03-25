@@ -294,9 +294,6 @@
     "pulled": 1
   },
   {
-    "user": "postmanlabs",
-    "repo": "postman-runtime",
-    "pulled": "Organization",
     "id": 62882111,
     "name": "postman-runtime",
     "full_name": "postmanlabs/postman-runtime",
@@ -304,15 +301,15 @@
     "fork": false,
     "created_at": "2016-07-08T10:54:26Z",
     "updated_at": "2020-03-20T19:18:06Z",
+    "stargazers_count": 79,
+    "watchers_count": 79,
     "forks": 51,
-    "open_issues": 12,
     "watchers": 79,
-    "network_count": 51,
-    "subscribers_count": 35,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "id": 161469924,
