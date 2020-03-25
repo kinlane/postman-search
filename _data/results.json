@@ -2343,9 +2343,6 @@
     "owner_type": "User"
   },
   {
-    "user": "luckymarmot",
-    "repo": "API-Flow",
-    "pulled": "Organization",
     "id": 54407384,
     "name": "API-Flow",
     "full_name": "luckymarmot/API-Flow",
@@ -2353,15 +2350,15 @@
     "fork": false,
     "created_at": "2016-03-21T16:58:36Z",
     "updated_at": "2020-03-10T11:31:17Z",
+    "stargazers_count": 180,
+    "watchers_count": 180,
     "forks": 18,
-    "open_issues": 26,
     "watchers": 180,
-    "network_count": 18,
-    "subscribers_count": 14,
+    "score": 1,
     "owner_id": 3215332,
     "owner_login": "luckymarmot",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/3215332?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "fiveout",
