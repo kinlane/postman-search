@@ -162,25 +162,22 @@
     "pulled": 1
   },
   {
-    "user": "postmanlabs",
-    "repo": "postman-collection",
-    "pulled": "Organization",
     "id": 52270857,
     "name": "postman-collection",
     "full_name": "postmanlabs/postman-collection",
     "description": "Javascript module that allows a developer to work with Postman Collections",
     "fork": false,
     "created_at": "2016-02-22T12:08:36Z",
-    "updated_at": "2020-03-21T19:31:11Z",
-    "forks": 80,
-    "open_issues": 35,
-    "watchers": 188,
-    "network_count": 80,
-    "subscribers_count": 33,
+    "updated_at": "2020-03-24T15:46:46Z",
+    "stargazers_count": 189,
+    "watchers_count": 189,
+    "forks": 81,
+    "watchers": 189,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "taylonr",
