@@ -16662,5 +16662,23 @@
     "owner_login": "mojaloop",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/32749554?v=4",
     "pulled": 1
+  },
+  {
+    "id": 144174658,
+    "name": "newman-reporter-slack",
+    "full_name": "avidit/newman-reporter-slack",
+    "description": "A newman reporter for slack",
+    "fork": false,
+    "created_at": "2018-08-09T15:56:06Z",
+    "updated_at": "2020-02-22T03:27:22Z",
+    "stargazers_count": 4,
+    "watchers_count": 4,
+    "forks": 10,
+    "watchers": 4,
+    "score": 1,
+    "owner_id": 1406153,
+    "owner_login": "avidit",
+    "owner_avatar_url": "https://avatars1.githubusercontent.com/u/1406153?v=4",
+    "pulled": 1
   }
 ]
