@@ -855,25 +855,22 @@
     "pulled": 1
   },
   {
-    "user": "loadimpact",
-    "repo": "postman-to-k6",
-    "pulled": "Organization",
     "id": 91872205,
     "name": "postman-to-k6",
     "full_name": "loadimpact/postman-to-k6",
     "description": "Converts Postman collections to k6 script code",
     "fork": false,
     "created_at": "2017-05-20T07:15:44Z",
-    "updated_at": "2020-03-24T20:33:51Z",
+    "updated_at": "2020-03-25T20:58:40Z",
+    "stargazers_count": 82,
+    "watchers_count": 82,
     "forks": 20,
-    "open_issues": 5,
-    "watchers": 81,
-    "network_count": 20,
-    "subscribers_count": 12,
+    "watchers": 82,
+    "score": 1,
     "owner_id": 2271486,
     "owner_login": "loadimpact",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/2271486?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "sittinash",
