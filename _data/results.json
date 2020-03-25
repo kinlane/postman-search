@@ -441,9 +441,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "postmanlabs",
-    "repo": "swagger2-to-postman",
-    "pulled": "Organization",
     "id": 32628860,
     "name": "swagger2-to-postman",
     "full_name": "postmanlabs/swagger2-to-postman",
@@ -451,15 +448,15 @@
     "fork": false,
     "created_at": "2015-03-21T10:51:23Z",
     "updated_at": "2020-03-20T12:55:12Z",
+    "stargazers_count": 88,
+    "watchers_count": 88,
     "forks": 46,
-    "open_issues": 31,
     "watchers": 88,
-    "network_count": 46,
-    "subscribers_count": 27,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "postmanlabs",
