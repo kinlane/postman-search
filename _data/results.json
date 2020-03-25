@@ -3765,9 +3765,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "src-system42",
-    "repo": "cognito-postman-templates",
-    "pulled": "User",
     "id": 118794778,
     "name": "cognito-postman-templates",
     "full_name": "src-system42/cognito-postman-templates",
@@ -3775,15 +3772,15 @@
     "fork": false,
     "created_at": "2018-01-24T16:57:59Z",
     "updated_at": "2020-03-12T06:40:52Z",
+    "stargazers_count": 9,
+    "watchers_count": 9,
     "forks": 4,
-    "open_issues": 2,
     "watchers": 9,
-    "network_count": 4,
-    "subscribers_count": 0,
+    "score": 1,
     "owner_id": 31330309,
     "owner_login": "src-system42",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/31330309?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "postmanlabs",
