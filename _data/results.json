@@ -276,9 +276,6 @@
     "owner_type": "User"
   },
   {
-    "user": "postmanlabs",
-    "repo": "postman-chrome-interceptor",
-    "pulled": "Organization",
     "id": 16481477,
     "name": "postman-chrome-interceptor",
     "full_name": "postmanlabs/postman-chrome-interceptor",
@@ -286,15 +283,15 @@
     "fork": false,
     "created_at": "2014-02-03T14:21:04Z",
     "updated_at": "2020-03-15T18:02:10Z",
+    "stargazers_count": 178,
+    "watchers_count": 178,
     "forks": 59,
-    "open_issues": 39,
     "watchers": 178,
-    "network_count": 59,
-    "subscribers_count": 28,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "postmanlabs",
