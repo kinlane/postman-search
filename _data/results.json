@@ -60,25 +60,22 @@
     "pulled": 1
   },
   {
-    "user": "mpociot",
-    "repo": "laravel-apidoc-generator",
-    "pulled": "User",
     "id": 57999295,
     "name": "laravel-apidoc-generator",
     "full_name": "mpociot/laravel-apidoc-generator",
     "description": "Laravel API Documentation Generator",
     "fork": false,
     "created_at": "2016-05-03T20:20:16Z",
-    "updated_at": "2020-03-23T22:23:34Z",
-    "forks": 438,
-    "open_issues": 10,
-    "watchers": 2529,
-    "network_count": 438,
-    "subscribers_count": 66,
+    "updated_at": "2020-03-25T19:15:32Z",
+    "stargazers_count": 2533,
+    "watchers_count": 2533,
+    "forks": 441,
+    "watchers": 2533,
+    "score": 1,
     "owner_id": 804684,
     "owner_login": "mpociot",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/804684?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "aubm",
@@ -591,6 +588,9 @@
     "owner_type": "Organization"
   },
   {
+    "user": "thecopy",
+    "repo": "apiary2postman",
+    "pulled": "User",
     "id": 20320955,
     "name": "apiary2postman",
     "full_name": "thecopy/apiary2postman",
@@ -598,15 +598,15 @@
     "fork": false,
     "created_at": "2014-05-30T07:35:11Z",
     "updated_at": "2020-03-24T17:01:28Z",
-    "stargazers_count": 186,
-    "watchers_count": 186,
     "forks": 25,
+    "open_issues": 4,
     "watchers": 186,
-    "score": 1,
+    "network_count": 25,
+    "subscribers_count": 4,
     "owner_id": 1847286,
     "owner_login": "thecopy",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/1847286?v=4",
-    "pulled": 1
+    "owner_type": "User"
   },
   {
     "user": "apigee",
@@ -927,6 +927,9 @@
     "owner_type": "Organization"
   },
   {
+    "user": "a85",
+    "repo": "PostmanProxy",
+    "pulled": "User",
     "id": 13851717,
     "name": "PostmanProxy",
     "full_name": "a85/PostmanProxy",
@@ -934,15 +937,15 @@
     "fork": false,
     "created_at": "2013-10-25T04:49:16Z",
     "updated_at": "2018-06-29T02:23:20Z",
-    "stargazers_count": 11,
-    "watchers_count": 11,
     "forks": 13,
+    "open_issues": 6,
     "watchers": 11,
-    "score": 1,
+    "network_count": 13,
+    "subscribers_count": 6,
     "owner_id": 653409,
     "owner_login": "a85",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/653409?v=4",
-    "pulled": 1
+    "owner_type": "User"
   },
   {
     "user": "brooksandrew",
