@@ -1509,9 +1509,6 @@
     "owner_type": "User"
   },
   {
-    "user": "djfdyuruiry",
-    "repo": "swagger2-postman-generator",
-    "pulled": "User",
     "id": 109502427,
     "name": "swagger2-postman-generator",
     "full_name": "djfdyuruiry/swagger2-postman-generator",
@@ -1519,15 +1516,15 @@
     "fork": false,
     "created_at": "2017-11-04T14:38:57Z",
     "updated_at": "2020-03-06T04:14:53Z",
+    "stargazers_count": 28,
+    "watchers_count": 28,
     "forks": 14,
-    "open_issues": 0,
     "watchers": 28,
-    "network_count": 14,
-    "subscribers_count": 5,
+    "score": 1,
     "owner_id": 3433659,
     "owner_login": "djfdyuruiry",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/3433659?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "JakeWorrell",
