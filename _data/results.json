@@ -2925,9 +2925,6 @@
     "owner_type": "User"
   },
   {
-    "user": "CWSpear",
-    "repo": "angular-postman",
-    "pulled": "User",
     "id": 13226995,
     "name": "angular-postman",
     "full_name": "CWSpear/angular-postman",
@@ -2935,15 +2932,15 @@
     "fork": false,
     "created_at": "2013-09-30T20:52:04Z",
     "updated_at": "2017-09-27T08:57:08Z",
+    "stargazers_count": 9,
+    "watchers_count": 9,
     "forks": 5,
-    "open_issues": 2,
     "watchers": 9,
-    "network_count": 5,
-    "subscribers_count": 2,
+    "score": 1,
     "owner_id": 495855,
     "owner_login": "CWSpear",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/495855?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "kamranayub",
