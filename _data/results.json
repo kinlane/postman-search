@@ -2805,9 +2805,6 @@
     "owner_type": "User"
   },
   {
-    "user": "lfalck",
-    "repo": "AzureRestApiPostmanCollections",
-    "pulled": "User",
     "id": 118343463,
     "name": "AzureRestApiPostmanCollections",
     "full_name": "lfalck/AzureRestApiPostmanCollections",
@@ -2815,15 +2812,15 @@
     "fork": false,
     "created_at": "2018-01-21T14:45:29Z",
     "updated_at": "2020-03-19T00:20:50Z",
+    "stargazers_count": 16,
+    "watchers_count": 16,
     "forks": 7,
-    "open_issues": 0,
     "watchers": 16,
-    "network_count": 7,
-    "subscribers_count": 3,
+    "score": 1,
     "owner_id": 30367604,
     "owner_login": "lfalck",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/30367604?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "ryantischer",
