@@ -450,9 +450,6 @@
     "pulled": 1
   },
   {
-    "user": "ambertests",
-    "repo": "explore-with-postman",
-    "pulled": "User",
     "id": 135077665,
     "name": "explore-with-postman",
     "full_name": "ambertests/explore-with-postman",
@@ -460,15 +457,15 @@
     "fork": false,
     "created_at": "2018-05-27T20:03:30Z",
     "updated_at": "2020-03-11T22:30:20Z",
+    "stargazers_count": 52,
+    "watchers_count": 52,
     "forks": 59,
-    "open_issues": 0,
     "watchers": 52,
-    "network_count": 59,
-    "subscribers_count": 6,
+    "score": 1,
     "owner_id": 20446946,
     "owner_login": "ambertests",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/20446946?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "Loadium",
