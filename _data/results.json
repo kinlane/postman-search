@@ -16914,5 +16914,23 @@
     "owner_login": "ljphilp",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/23145232?v=4",
     "pulled": 1
+  },
+  {
+    "id": 148357200,
+    "name": "node-express-mongodb-jwt-rest-api-skeleton",
+    "full_name": "davellanedam/node-express-mongodb-jwt-rest-api-skeleton",
+    "description": "This is a basic API REST skeleton written on JavaScript using async/await. Great for building a starter web API for your front-end (Android, iOS, Vue, react, angular, or anything that can consume an API). Demo of frontend in VueJS here: https://github.com/davellanedam/vue-skeleton-mvp",
+    "fork": false,
+    "created_at": "2018-09-11T17:53:07Z",
+    "updated_at": "2020-03-25T18:23:03Z",
+    "stargazers_count": 389,
+    "watchers_count": 389,
+    "forks": 118,
+    "watchers": 389,
+    "score": 1,
+    "owner_id": 5108067,
+    "owner_login": "davellanedam",
+    "owner_avatar_url": "https://avatars3.githubusercontent.com/u/5108067?v=4",
+    "pulled": 1
   }
 ]
