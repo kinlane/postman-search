@@ -2862,9 +2862,6 @@
     "pulled": 1
   },
   {
-    "user": "ip11",
-    "repo": "node_mongo_postman",
-    "pulled": "User",
     "id": 133825692,
     "name": "node_mongo_postman",
     "full_name": "ip11/node_mongo_postman",
@@ -2872,15 +2869,15 @@
     "fork": false,
     "created_at": "2018-05-17T14:31:18Z",
     "updated_at": "2020-01-21T13:37:02Z",
+    "stargazers_count": 7,
+    "watchers_count": 7,
     "forks": 7,
-    "open_issues": 0,
     "watchers": 7,
-    "network_count": 7,
-    "subscribers_count": 2,
+    "score": 1,
     "owner_id": 39377668,
     "owner_login": "ip11",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/39377668?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "SheikhZayed",
