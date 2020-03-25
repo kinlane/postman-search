@@ -837,9 +837,6 @@
     "owner_type": "User"
   },
   {
-    "user": "DevMountain",
-    "repo": "endpoint-testing-afternoon",
-    "pulled": "Organization",
     "id": 104804865,
     "name": "endpoint-testing-afternoon",
     "full_name": "DevMountain/endpoint-testing-afternoon",
@@ -847,15 +844,15 @@
     "fork": false,
     "created_at": "2017-09-25T21:40:05Z",
     "updated_at": "2019-03-17T00:12:44Z",
+    "stargazers_count": 4,
+    "watchers_count": 4,
     "forks": 204,
-    "open_issues": 0,
     "watchers": 4,
-    "network_count": 204,
-    "subscribers_count": 8,
+    "score": 1,
     "owner_id": 5432151,
     "owner_login": "DevMountain",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/5432151?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "loadimpact",
