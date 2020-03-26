@@ -1560,9 +1560,6 @@
     "owner_type": "User"
   },
   {
-    "user": "rmrevin",
-    "repo": "yii2-postman",
-    "pulled": "User",
     "id": 10405519,
     "name": "yii2-postman",
     "full_name": "rmrevin/yii2-postman",
@@ -1570,15 +1567,15 @@
     "fork": false,
     "created_at": "2013-05-31T13:36:21Z",
     "updated_at": "2019-07-25T07:42:22Z",
+    "stargazers_count": 25,
+    "watchers_count": 25,
     "forks": 13,
-    "open_issues": 3,
     "watchers": 25,
-    "network_count": 13,
-    "subscribers_count": 7,
+    "score": 1,
     "owner_id": 803507,
     "owner_login": "rmrevin",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/803507?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "id": 1354661,
