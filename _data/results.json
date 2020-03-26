@@ -3714,9 +3714,6 @@
     "owner_type": "User"
   },
   {
-    "user": "bitfumes",
-    "repo": "api",
-    "pulled": "Organization",
     "id": 109716868,
     "name": "api",
     "full_name": "bitfumes/api",
@@ -3724,15 +3721,15 @@
     "fork": false,
     "created_at": "2017-11-06T15:57:48Z",
     "updated_at": "2020-03-12T18:31:33Z",
+    "stargazers_count": 57,
+    "watchers_count": 57,
     "forks": 62,
-    "open_issues": 0,
     "watchers": 57,
-    "network_count": 62,
-    "subscribers_count": 8,
+    "score": 1,
     "owner_id": 26225409,
     "owner_login": "bitfumes",
     "owner_avatar_url": "https://avatars1.githubusercontent.com/u/26225409?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "id": 118794778,
