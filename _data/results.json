@@ -2997,9 +2997,6 @@
     "owner_type": "User"
   },
   {
-    "user": "fengchang",
-    "repo": "postman-example",
-    "pulled": "User",
     "id": 56588534,
     "name": "postman-example",
     "full_name": "fengchang/postman-example",
@@ -3007,15 +3004,15 @@
     "fork": false,
     "created_at": "2016-04-19T10:44:22Z",
     "updated_at": "2019-03-12T07:00:41Z",
+    "stargazers_count": 12,
+    "watchers_count": 12,
     "forks": 4,
-    "open_issues": 0,
     "watchers": 12,
-    "network_count": 4,
-    "subscribers_count": 3,
+    "score": 1,
     "owner_id": 1174777,
     "owner_login": "fengchang",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/1174777?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "postmanlabs",
