@@ -1830,9 +1830,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "gustavguez",
-    "repo": "postman-importer",
-    "pulled": "User",
     "id": 106338396,
     "name": "postman-importer",
     "full_name": "gustavguez/postman-importer",
@@ -1840,15 +1837,15 @@
     "fork": false,
     "created_at": "2017-10-09T21:43:00Z",
     "updated_at": "2020-01-13T09:31:41Z",
+    "stargazers_count": 22,
+    "watchers_count": 22,
     "forks": 6,
-    "open_issues": 1,
     "watchers": 22,
-    "network_count": 6,
-    "subscribers_count": 3,
+    "score": 1,
     "owner_id": 47954465,
     "owner_login": "gustavguez",
     "owner_avatar_url": "https://avatars1.githubusercontent.com/u/47954465?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "myNBGcode",
