@@ -60,25 +60,22 @@
     "pulled": 1
   },
   {
-    "user": "mpociot",
-    "repo": "laravel-apidoc-generator",
-    "pulled": "User",
     "id": 57999295,
     "name": "laravel-apidoc-generator",
     "full_name": "mpociot/laravel-apidoc-generator",
     "description": "Laravel API Documentation Generator",
     "fork": false,
     "created_at": "2016-05-03T20:20:16Z",
-    "updated_at": "2020-03-23T22:23:34Z",
-    "forks": 438,
-    "open_issues": 10,
-    "watchers": 2529,
-    "network_count": 438,
-    "subscribers_count": 66,
+    "updated_at": "2020-03-26T16:41:54Z",
+    "stargazers_count": 2536,
+    "watchers_count": 2536,
+    "forks": 442,
+    "watchers": 2536,
+    "score": 1,
     "owner_id": 804684,
     "owner_login": "mpociot",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/804684?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "aubm",
