@@ -1518,9 +1518,6 @@
     "pulled": 1
   },
   {
-    "user": "JakeWorrell",
-    "repo": "docodile",
-    "pulled": "User",
     "id": 28177009,
     "name": "docodile",
     "full_name": "JakeWorrell/docodile",
@@ -1528,15 +1525,15 @@
     "fork": false,
     "created_at": "2014-12-18T09:31:53Z",
     "updated_at": "2020-03-02T05:50:26Z",
+    "stargazers_count": 51,
+    "watchers_count": 51,
     "forks": 24,
-    "open_issues": 3,
     "watchers": 51,
-    "network_count": 24,
-    "subscribers_count": 6,
+    "score": 1,
     "owner_id": 371898,
     "owner_login": "JakeWorrell",
     "owner_avatar_url": "https://avatars1.githubusercontent.com/u/371898?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "DannyDainton",
