@@ -17592,5 +17592,23 @@
     "owner_login": "RL-Studio",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/12933182?v=4",
     "pulled": 1
+  },
+  {
+    "id": 159415400,
+    "name": "postman-collection-generator",
+    "full_name": "AlbertLabarento/postman-collection-generator",
+    "description": "Postman collection generator for your api's. Best used for your functional tests integrated with this package.",
+    "fork": false,
+    "created_at": "2018-11-27T23:35:58Z",
+    "updated_at": "2019-09-27T03:58:15Z",
+    "stargazers_count": 4,
+    "watchers_count": 4,
+    "forks": 3,
+    "watchers": 4,
+    "score": 1,
+    "owner_id": 12888117,
+    "owner_login": "AlbertLabarento",
+    "owner_avatar_url": "https://avatars2.githubusercontent.com/u/12888117?v=4",
+    "pulled": 1
   }
 ]
