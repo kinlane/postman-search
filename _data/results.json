@@ -2622,9 +2622,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "themesanasang",
-    "repo": "postmanage_mt",
-    "pulled": "User",
     "id": 55582272,
     "name": "postmanage_mt",
     "full_name": "themesanasang/postmanage_mt",
@@ -2632,15 +2629,15 @@
     "fork": false,
     "created_at": "2016-04-06T06:46:55Z",
     "updated_at": "2019-03-13T17:14:35Z",
+    "stargazers_count": 4,
+    "watchers_count": 4,
     "forks": 9,
-    "open_issues": 0,
     "watchers": 4,
-    "network_count": 9,
-    "subscribers_count": 6,
+    "score": 1,
     "owner_id": 10210347,
     "owner_login": "themesanasang",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10210347?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "id": 59526736,
