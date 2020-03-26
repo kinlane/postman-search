@@ -17664,5 +17664,23 @@
     "owner_login": "staffim",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/1853048?v=4",
     "pulled": 1
+  },
+  {
+    "id": 80832873,
+    "name": "laravel-postman",
+    "full_name": "sojeda/laravel-postman",
+    "description": "Export laravel API routes to postman",
+    "fork": false,
+    "created_at": "2017-02-03T13:47:48Z",
+    "updated_at": "2020-03-02T06:54:51Z",
+    "stargazers_count": 10,
+    "watchers_count": 10,
+    "forks": 3,
+    "watchers": 10,
+    "score": 1,
+    "owner_id": 17851841,
+    "owner_login": "sojeda",
+    "owner_avatar_url": "https://avatars0.githubusercontent.com/u/17851841?v=4",
+    "pulled": 1
   }
 ]
