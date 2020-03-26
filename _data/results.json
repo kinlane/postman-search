@@ -1869,9 +1869,6 @@
     "owner_type": "User"
   },
   {
-    "user": "api-platform",
-    "repo": "postman-collection-generator",
-    "pulled": "Organization",
     "id": 52625059,
     "name": "postman-collection-generator",
     "full_name": "api-platform/postman-collection-generator",
@@ -1879,15 +1876,15 @@
     "fork": false,
     "created_at": "2016-02-26T18:43:04Z",
     "updated_at": "2020-02-16T13:14:05Z",
+    "stargazers_count": 25,
+    "watchers_count": 25,
     "forks": 9,
-    "open_issues": 2,
     "watchers": 25,
-    "network_count": 9,
-    "subscribers_count": 12,
+    "score": 1,
     "owner_id": 13420081,
     "owner_login": "api-platform",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/13420081?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "supermitch",
