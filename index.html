@@ -8,13 +8,13 @@ layout: default
 
 	{% assign number_of_repos = results | size %}
 
-	<p>This is a listing of repos that come up when searching for "postman" on GitHub. Since you can't view all 6K results, because both the UI and API restrict you to the first 1K, I have created a collection to pull search results from different angles, resulting in almost 5K of the results (will keep trying).</p>
+	<p>This is a listing of repos that come up when <a href="https://github.com/search?q=postman&type=" target="_blank">searching for "postman" on GitHub</a>. Since you can't view all 6K results, because both the UI and API restrict you to the first 1K, I have created a collection to pull search results from different angles, resulting in almost 5K of the results (will keep trying).</p>
 	<p align="center"><strong>{{ number_of_repos }} repos</strong></p>
 
 	<table>
 	{% for results in results %}
 		<tr>
-			<td style="height: 20px;">
+			<td style="padding: 10px;">
 				<a href="https://github.com/{{ results.full_name }}" target="_blank"><strong>{{ results.full_name | strip_html }}</strong></a> (forks: {{ results.forks }}) (watchers: {{ results.watchers }})
 			</td>
 			<td>{{ results.description | strip_html }}</td>
