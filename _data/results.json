@@ -2187,9 +2187,6 @@
     "owner_type": "User"
   },
   {
-    "user": "postmanlabs",
-    "repo": "gsoc",
-    "pulled": "Organization",
     "id": 238384680,
     "name": "gsoc",
     "full_name": "postmanlabs/gsoc",
@@ -2197,15 +2194,15 @@
     "fork": false,
     "created_at": "2020-02-05T06:38:13Z",
     "updated_at": "2020-03-21T19:29:29Z",
+    "stargazers_count": 20,
+    "watchers_count": 20,
     "forks": 6,
-    "open_issues": 0,
     "watchers": 20,
-    "network_count": 6,
-    "subscribers_count": 12,
+    "score": 1,
     "owner_id": 10251060,
     "owner_login": "postmanlabs",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "id": 80905693,
