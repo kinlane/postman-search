@@ -2361,9 +2361,6 @@
     "pulled": 1
   },
   {
-    "user": "malun666",
-    "repo": "aicoder_vip_doc",
-    "pulled": "User",
     "id": 136350500,
     "name": "aicoder_vip_doc",
     "full_name": "malun666/aicoder_vip_doc",
@@ -2371,15 +2368,15 @@
     "fork": false,
     "created_at": "2018-06-06T15:40:15Z",
     "updated_at": "2020-03-10T02:09:08Z",
+    "stargazers_count": 47,
+    "watchers_count": 47,
     "forks": 30,
-    "open_issues": 2,
     "watchers": 47,
-    "network_count": 30,
-    "subscribers_count": 5,
+    "score": 1,
     "owner_id": 9791182,
     "owner_login": "malun666",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/9791182?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "id": 152237532,
