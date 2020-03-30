@@ -14,7 +14,7 @@ layout: default
 	{% for results in results %}
 		<tr>
 			<td>
-				<a href="https://github.com/{{ results.full_name }}" target="_blank"><strong>{{ results.full_name }}</strong></a> (forks: {{ results.forks }}) (watchers: {{ results.watchers }})
+				<a href="https://github.com/{{ results.full_name }}" target="_blank"><strong>{{ results.full_name }}</strong></a> (<strong>forks</strong>: {{ results.forks }}) (<strong>watchers</strong>: {{ results.watchers }})
 			</td>
 			<td>{{ results.description }}</td>
 		</tr>
