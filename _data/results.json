@@ -1971,9 +1971,6 @@
     "owner_type": "User"
   },
   {
-    "user": "DigitalState",
-    "repo": "camunda-postman-collection",
-    "pulled": "Organization",
     "id": 107299838,
     "name": "camunda-postman-collection",
     "full_name": "DigitalState/camunda-postman-collection",
@@ -1981,15 +1978,15 @@
     "fork": false,
     "created_at": "2017-10-17T17:08:42Z",
     "updated_at": "2020-02-05T14:18:31Z",
+    "stargazers_count": 11,
+    "watchers_count": 11,
     "forks": 13,
-    "open_issues": 0,
     "watchers": 11,
-    "network_count": 13,
-    "subscribers_count": 2,
+    "score": 1,
     "owner_id": 12055994,
     "owner_login": "DigitalState",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/12055994?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "manatlan",
