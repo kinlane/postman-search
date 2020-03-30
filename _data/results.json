@@ -2211,9 +2211,6 @@
     "owner_type": "Organization"
   },
   {
-    "user": "k3rn3l-p4n1c",
-    "repo": "postpython",
-    "pulled": "User",
     "id": 80905693,
     "name": "postpython",
     "full_name": "k3rn3l-p4n1c/postpython",
@@ -2221,15 +2218,15 @@
     "fork": false,
     "created_at": "2017-02-04T08:28:49Z",
     "updated_at": "2020-03-13T12:17:24Z",
+    "stargazers_count": 29,
+    "watchers_count": 29,
     "forks": 7,
-    "open_issues": 5,
     "watchers": 29,
-    "network_count": 7,
-    "subscribers_count": 4,
+    "score": 1,
     "owner_id": 5537028,
     "owner_login": "k3rn3l-p4n1c",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/5537028?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "SAP-samples",
