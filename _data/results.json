@@ -342,25 +342,22 @@
     "pulled": 1
   },
   {
-    "user": "fbsamples",
-    "repo": "WhatsApp-Business-API-Postman-Collection",
-    "pulled": "Organization",
     "id": 146915273,
     "name": "WhatsApp-Business-API-Postman-Collection",
     "full_name": "fbsamples/WhatsApp-Business-API-Postman-Collection",
     "description": "A Postman collection that contains the full set of sample WhatsApp Business API calls.",
     "fork": false,
     "created_at": "2018-08-31T16:12:32Z",
-    "updated_at": "2020-03-17T18:32:35Z",
+    "updated_at": "2020-03-27T18:21:17Z",
+    "stargazers_count": 123,
+    "watchers_count": 123,
     "forks": 104,
-    "open_issues": 0,
-    "watchers": 122,
-    "network_count": 104,
-    "subscribers_count": 23,
+    "watchers": 123,
+    "score": 1,
     "owner_id": 1541324,
     "owner_login": "fbsamples",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/1541324?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "heremaps",
