@@ -360,9 +360,6 @@
     "pulled": 1
   },
   {
-    "user": "heremaps",
-    "repo": "postman-collections",
-    "pulled": "Organization",
     "id": 49197914,
     "name": "postman-collections",
     "full_name": "heremaps/postman-collections",
@@ -370,15 +367,15 @@
     "fork": false,
     "created_at": "2016-01-07T10:25:55Z",
     "updated_at": "2020-03-22T17:40:57Z",
-    "forks": 35,
-    "open_issues": 2,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "forks": 36,
     "watchers": 99,
-    "network_count": 35,
-    "subscribers_count": 16,
+    "score": 1,
     "owner_id": 2835506,
     "owner_login": "heremaps",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/2835506?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "id": 32628860,
