@@ -10,7 +10,7 @@ layout: default
 	<table>
 	{% for results in results %}
 		<tr>
-			<td>{{ results.full_name }}</td>
+			<td><a href="https://github.com/{{ results.full_name }}" target="_blank"><strong>{{ results.full_name }}</strong></a></td>
 			<td>{{ results.description }}</td>
 		</tr>
 	{% endfor %}
