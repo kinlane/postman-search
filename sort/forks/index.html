@@ -7,6 +7,9 @@ layout: default
 	<p>This is a search.</p>
 
 	{% assign results = site.data.results | sort: "forks" %}
+
+	{% assign number_of_repos = results | size %}
+	<p align="center"><strong>{{ number_of_repos }} repos</strong></p>
 	<table>
 	{% for results in results %}
 		<tr>
