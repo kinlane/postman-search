@@ -2223,9 +2223,6 @@
     "pulled": 1
   },
   {
-    "user": "SAP-samples",
-    "repo": "sapbydesign-api-samples",
-    "pulled": "Organization",
     "id": 171538075,
     "name": "sapbydesign-api-samples",
     "full_name": "SAP-samples/sapbydesign-api-samples",
@@ -2233,15 +2230,15 @@
     "fork": false,
     "created_at": "2019-02-19T19:43:06Z",
     "updated_at": "2020-03-23T12:06:06Z",
+    "stargazers_count": 24,
+    "watchers_count": 24,
     "forks": 22,
-    "open_issues": 1,
     "watchers": 24,
-    "network_count": 22,
-    "subscribers_count": 12,
+    "score": 1,
     "owner_id": 50221243,
     "owner_login": "SAP-samples",
     "owner_avatar_url": "https://avatars2.githubusercontent.com/u/50221243?v=4",
-    "owner_type": "Organization"
+    "pulled": 1
   },
   {
     "user": "crifan",
