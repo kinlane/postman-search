@@ -10,11 +10,12 @@ layout: default
 
 	{% assign number_of_repos = results | size %}
 	<p align="center"><strong>{{ number_of_repos }} repos</strong></p>
+
 	<table>
 	{% for results in results %}
 		<tr>
 			<td>
-				<a href="https://github.com/{{ results.full_name }}" target="_blank"><strong>{{ results.full_name }}</strong></a> (<strong>forks</strong>: {{ results.forks }}) (<strong>watchers</strong>: {{ results.watchers }})
+				<a href="https://github.com/{{ results.full_name }}" target="_blank"><strong>{{ results.full_name }}</strong></a> (forks: {{ results.forks }}) (watchers: {{ results.watchers }})
 			</td>
 			<td>{{ results.description }}</td>
 		</tr>

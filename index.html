@@ -6,9 +6,11 @@ layout: default
 	<h2>Postman GitHub Search</h2>
 	<p>This is a search.</p>
 
+	{% assign results = site.data.results | sort: "watchers" %}
+
 	{% assign number_of_repos = results | size %}
 	<p align="center"><strong>{{ number_of_repos }} repos</strong></p>
-	{% assign results = site.data.results | sort: "watchers" %}
+	
 	<table>
 	{% for results in results %}
 		<tr>
