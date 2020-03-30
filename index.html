@@ -4,8 +4,7 @@ layout: default
 
 <section>
 
-	{% assign results = site.data.results | sort: "watchers" %}
-	{% assign results = results | sort: "watchers" %}
+	{% assign results = site.data.results | sort: "watchers" | reverse %}
 
 	{% assign number_of_repos = results | size %}
 	<p align="center"><strong>{{ number_of_repos }} repos</strong></p>
