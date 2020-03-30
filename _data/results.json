@@ -90,25 +90,22 @@
     "pulled": 1
   },
   {
-    "user": "liyasthomas",
-    "repo": "postwoman",
-    "pulled": "User",
     "id": 203587744,
     "name": "postwoman",
     "full_name": "liyasthomas/postwoman",
     "description": "👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io",
     "fork": false,
     "created_at": "2019-08-21T13:15:24Z",
-    "updated_at": "2020-03-24T05:27:01Z",
-    "forks": 1085,
-    "open_issues": 14,
-    "watchers": 17819,
-    "network_count": 1085,
-    "subscribers_count": 234,
+    "updated_at": "2020-03-30T03:19:25Z",
+    "stargazers_count": 18028,
+    "watchers_count": 18028,
+    "forks": 1105,
+    "watchers": 18028,
+    "score": 1,
     "owner_id": 10395817,
     "owner_login": "liyasthomas",
     "owner_avatar_url": "https://avatars1.githubusercontent.com/u/10395817?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "salesforce-marketingcloud",
