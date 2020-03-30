@@ -2139,9 +2139,6 @@
     "pulled": 1
   },
   {
-    "user": "MarcosEllys",
-    "repo": "awesome-newman-html-template",
-    "pulled": "User",
     "id": 123840000,
     "name": "awesome-newman-html-template",
     "full_name": "MarcosEllys/awesome-newman-html-template",
@@ -2149,15 +2146,15 @@
     "fork": false,
     "created_at": "2018-03-04T23:43:34Z",
     "updated_at": "2020-03-04T03:58:21Z",
+    "stargazers_count": 53,
+    "watchers_count": 53,
     "forks": 48,
-    "open_issues": 0,
     "watchers": 53,
-    "network_count": 48,
-    "subscribers_count": 5,
+    "score": 1,
     "owner_id": 6751242,
     "owner_login": "MarcosEllys",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/6751242?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "seeebiii",
