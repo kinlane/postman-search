@@ -13020,9 +13020,6 @@
     "owner_type": "User"
   },
   {
-    "user": "bcariaga",
-    "repo": "buildman",
-    "pulled": "User",
     "id": 148390691,
     "name": "buildman",
     "full_name": "bcariaga/buildman",
@@ -13030,15 +13027,15 @@
     "fork": false,
     "created_at": "2018-09-11T23:00:55Z",
     "updated_at": "2020-01-24T20:27:34Z",
+    "stargazers_count": 5,
+    "watchers_count": 5,
     "forks": 0,
-    "open_issues": 1,
     "watchers": 5,
-    "network_count": 0,
-    "subscribers_count": 3,
+    "score": 1,
     "owner_id": 19692921,
     "owner_login": "bcariaga",
     "owner_avatar_url": "https://avatars3.githubusercontent.com/u/19692921?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "user": "verso-optim",
