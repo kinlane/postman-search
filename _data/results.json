@@ -2268,9 +2268,6 @@
     "owner_type": "User"
   },
   {
-    "user": "gusaul",
-    "repo": "grpcox",
-    "pulled": "User",
     "id": 156116510,
     "name": "grpcox",
     "full_name": "gusaul/grpcox",
@@ -2278,15 +2275,15 @@
     "fork": false,
     "created_at": "2018-11-04T19:22:25Z",
     "updated_at": "2020-03-23T04:03:34Z",
+    "stargazers_count": 130,
+    "watchers_count": 130,
     "forks": 21,
-    "open_issues": 6,
     "watchers": 130,
-    "network_count": 21,
-    "subscribers_count": 6,
+    "score": 1,
     "owner_id": 10978391,
     "owner_login": "gusaul",
     "owner_avatar_url": "https://avatars0.githubusercontent.com/u/10978391?v=4",
-    "owner_type": "User"
+    "pulled": 1
   },
   {
     "id": 96685982,
