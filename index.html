@@ -7,6 +7,8 @@ layout: default
 	{% assign results = site.data.results | sort: "watchers" | reverse %}
 
 	{% assign number_of_repos = results | size %}
+
+	<p>This is a listing of repos that come up when searching for "postman" on GitHub. Since you can't view all 6K results, because both the UI and API restrict you to the first 1K, I have created a collection to pull search results from different angles, resulting in almost 5K of the results (will keep trying).</p>
 	<p align="center"><strong>{{ number_of_repos }} repos</strong></p>
 
 	<table>
