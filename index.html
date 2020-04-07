@@ -32,7 +32,7 @@ layout: default
 		{% assign entries = result[1] %}
 		{% assign number_of_repos = entries | size %}
 
-		<a name="title"></a>
+		<a name="{{ title }}"></a>
 		<h3>{{ title }} ({{ number_of_repos }}) (<a href="#" onclick="show('{{ title | strip }}-Row'); return false;">Show</a>)</h3>
 
 		<table width="100%" border="0" id="{{ title | strip }}-Row">
