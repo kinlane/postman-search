@@ -20,10 +20,10 @@ layout: default
 
 		<h3>{{ title }}</h3>
 
-		{% assign entries = result %}
+		{% assign entries = result[1] %}
 
 		<table width="100%" border="1">
-			{% for entry in entries[0] %}
+			{% for entry in entries %}
 				<tr>
 					<td><strong>{{ entry }}</strong></td>
 				</tr>
