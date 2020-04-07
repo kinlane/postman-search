@@ -4,12 +4,6 @@ layout: default
 
 <section>
 
-	{% assign results = site.data %}
-
-	{% assign number_of_tags = results | size %}
-
-	<p align="center"><strong>{{ number_of_tags }} tags</strong></p>
-
 	<script>
 		function show(id){
 			if(document.getElementById(id).style.display=='none'){
@@ -20,6 +14,17 @@ layout: default
 			}
 		}
 	</script>
+
+	{% assign results = site.data %}
+	{% assign number_of_tags = results | size %}
+	<ul>
+	{% for result in results %}
+		{% assign title = result[0] %}
+		{% assign entries = result[1] %}
+		{% assign number_of_repos = entries | size %}
+		<li>{{ title }} ({{ number_of_repos }})</li>
+	{% endfor %}
+	</ul>
 
 	{% for result in results %}
 
