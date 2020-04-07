@@ -28,11 +28,11 @@ layout: default
 
 		{% capture title %}{% for tag_word in tag_words %}{{ tag_word | capitalize }} {% endfor %}{% endcapture %}
 
-		<h3>{{ title }} (<a href="#" onclick="show('{{ title }}-Row'); return false;">Show</a>)</h3>
+		<h3>{{ title }} (<a href="#" onclick="show('{{ title | strip }}-Row'); return false;">Show</a>)</h3>
 
 		{% assign entries = result[1] %}
 
-		<table width="100%" border="0" id="{{ title }}-Row">
+		<table width="100%" border="0" id="{{ title | strip }}-Row">
 			<tr>
 				<td><strong>Repository</strong></td>
 				<td><strong>Updated</strong></td>
