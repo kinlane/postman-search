@@ -23,7 +23,7 @@ layout: default
 		{% assign entries = result %}
 
 		<table width="100%" border="1">
-			{% for entry in entries %}
+			{% for entry in entries[0] %}
 				<tr>
 					<td><strong>{{ entry }}</strong></td>
 				</tr>
