@@ -23,9 +23,18 @@ layout: default
 		{% assign entries = result[1] %}
 
 		<table width="100%" border="1">
+			<tr>
+				<td><strong>Repository</strong></td>
+				<td><strong>Updated</strong></td>
+				<td><strong>Forks</strong></td>
+				<td><strong>Watchers</strong></td>
+			</tr>
 			{% for entry in entries %}
 				<tr>
-					<td><strong>{{ entry }}</strong></td>
+					<td><strong>{{ entry.full_name }}</strong> - {{ entry.description }}</td>
+					<td>{{ entry.updated_at }}</td>
+					<td>{{ entry.forks }}</td>
+					<td>{{ entry.watchers }}</td>
 				</tr>
 			{% endfor %}
 		</table>
