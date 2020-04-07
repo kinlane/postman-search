@@ -11,6 +11,16 @@ layout: default
 	<p>This is a listing of repos that come up when <a href="https://github.com/search?q=postman&type=" target="_blank">searching for "postman" on GitHub</a>. Since you can't view all 6K results, because both the UI and API restrict you to the first 1K, I have created a collection to pull search results from different angles, resulting in almost 5K of the results (will keep trying).</p>
 	<p align="center"><strong>{{ number_of_repos }} repos</strong></p>
 
+	<script>
+		function show(id){
+			if(document.getElementById(id + '-Row').style.display=='none'){
+				document.getElementById(id + '-Row').style.display == 'none';
+			}
+			else{
+				document.getElementById(id + '-Row').style.display == '';
+			}
+		}
+	</script>
 
 	{% for result in results %}
 
@@ -18,11 +28,11 @@ layout: default
 
 		{% capture title %}{% for tag_word in tag_words %}{{ tag_word | capitalize }} {% endfor %}{% endcapture %}
 
-		<h3>{{ title }}</h3>
+		<h3>{{ title }} (<a href="#" onclick="show('{{ title }}-Row'); return false;">Show</a>)</h3>
 
 		{% assign entries = result[1] %}
 
-		<table width="100%" border="0">
+		<table width="100%" border="0" id="'{{ title }}-Row'">
 			<tr>
 				<td><strong>Repository</strong></td>
 				<td><strong>Updated</strong></td>
