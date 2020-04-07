@@ -22,7 +22,7 @@ layout: default
 
 		{% assign entries = result[1] %}
 
-		<table width="100%" border="1">
+		<table width="100%" border="0">
 			<tr>
 				<td><strong>Repository</strong></td>
 				<td><strong>Updated</strong></td>
@@ -32,9 +32,12 @@ layout: default
 			{% for entry in entries %}
 				<tr>
 					<td><strong>{{ entry.full_name }}</strong> - {{ entry.description }}</td>
-					<td>{{ entry.updated_at }}</td>
-					<td>{{ entry.forks }}</td>
-					<td>{{ entry.watchers }}</td>
+					<td width="15%">{{ entry.updated_at }}</td>
+					<td width="15%">{{ entry.forks }}</td>
+					<td width="15%">{{ entry.watchers }}</td>
+				</tr>
+				<tr>
+					<td colspan="4"><hr></td>
 				</tr>
 			{% endfor %}
 		</table>
