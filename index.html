@@ -15,16 +15,6 @@ layout: default
 		}
 	</script>
 
-	<style type="text/css">
-		.wordcloud {
-			border: 1px solid #FFF;
-			height: 4in;
-			width: 12in;
-			padding: 5px;
-			margin: 0px;
-			background-color:#FFF;
-		}
-	</style>
 	{% assign results = site.data %}
 	{% assign number_of_tags = results | size %}
 	<div id="wordcloud2" class="wordcloud">
@@ -36,13 +26,14 @@ layout: default
 		$(document).ready(function(){
 			$("#wordcloud2").awesomeCloud({
 			"size" : {
-			"grid" : 9,
-			"factor" : 4},
+				"grid" : 7,
+				"factor" : 3
+			},
 			"options" : {
-			"color" : "random-dark",
-			"rotationRatio" : 0},
-			"font" : "Times New Roman, Times, serif",
-			"shape" : "circle"
+				"color" : "random-dark",
+				"rotationRatio" : 0},
+				"font" : "Times New Roman, Times, serif",
+				"shape" : "circle"
 			});
 		});
 	</script>
