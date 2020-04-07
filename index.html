@@ -25,7 +25,7 @@ layout: default
 		<table>
 			{% for entry in entries %}
 				<tr>
-					<td>{{ entry }}</td>
+					<td><strong>{{ entry.full_name }}</strong> - {{ entry.description }}</td>
 				</tr>
 			{% endfor %}
 		</table>
