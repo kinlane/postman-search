@@ -15,8 +15,6 @@ layout: default
 		}
 	</script>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script src="https://kinlane-productions.s3.amazonaws.com/js/jquery.awesomeCloud-0.2.js"></script>
 	<style type="text/css">
 		.wordcloud {
 			border: 1px solid #FFF;
@@ -35,17 +33,18 @@ layout: default
 	{% endfor %}
 	</div>
 	<script>
-	$(document).ready(function(){
-	$("#wordcloud2").awesomeCloud({
-	"size" : {
-	"grid" : 9,
-	"factor" : 4},
-	"options" : {
-	"color" : "random-dark",
-	"rotationRatio" : 0},
-	"font" : "Times New Roman, Times, serif",
-	"shape" : "circle"});
-	});
+		$(document).ready(function(){
+			$("#wordcloud2").awesomeCloud({
+			"size" : {
+			"grid" : 9,
+			"factor" : 4},
+			"options" : {
+			"color" : "random-dark",
+			"rotationRatio" : 0},
+			"font" : "Times New Roman, Times, serif",
+			"shape" : "circle"
+			});
+		});
 	</script>
 
 	{% for result in results %}
