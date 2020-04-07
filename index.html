@@ -29,13 +29,16 @@ layout: default
 				<td><strong>Forks</strong></td>
 				<td><strong>Watchers</strong></td>
 			</tr>
+			<tr>
+				<td colspan="4"><hr></td>
+			</tr>
 			{% for entry in entries %}
 
 				{% assign updated_at = entry.updated_at | split: "T" %}
 				{% assign updated_at = updated_at[0] %}
 
 				<tr>
-					<td><strong>{{ entry.full_name }}</strong> - {{ entry.description }}</td>
+					<td><a href="https://github.com{{ entry.full_name }}"><strong>{{ entry.full_name }}</strong></a> - {{ entry.description }}</td>
 					<td width="15%">{{ updated_at }}</td>
 					<td width="15%">{{ entry.forks }}</td>
 					<td width="15%">{{ entry.watchers }}</td>
