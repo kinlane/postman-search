@@ -19,7 +19,7 @@ layout: default
 	{% assign number_of_tags = results | size %}
 	<div id="wordcloud2" class="wordcloud">
 	{% for result in results %}{% assign title = result[0] %}{% assign entries = result[1] %}{% assign number_of_repos = entries | size %}
-		<span data-weight="{{ number_of_repos }}">{{ title }}</span>
+		<span data-weight="{{ number_of_repos }}"><a href="#{{ title }}">{{ title }}</a></span>
 	{% endfor %}
 	</div>
 	<script>
