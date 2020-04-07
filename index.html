@@ -27,10 +27,9 @@ layout: default
 			background-color:#FFF;
 		}
 	</style>
-
-	<div id="wordcloud2" class="wordcloud">`;
 	{% assign results = site.data %}
 	{% assign number_of_tags = results | size %}
+	<div id="wordcloud2" class="wordcloud">
 	{% for result in results %}{% assign title = result[0] %}{% assign entries = result[1] %}{% assign number_of_repos = entries | size %}
 		<span data-weight="{{ number_of_repos }}">{{ title }}</span>
 	{% endfor %}
