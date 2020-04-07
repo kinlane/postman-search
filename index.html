@@ -13,7 +13,13 @@ layout: default
 
 	<table>
 	{% for result in results %}
-		{{ result[0] }}
+
+	{% assign tag_words = result[0] | split: ' ' %}
+
+	{% capture title %}{% for tag_word in tag_words %}{{ tag_word | capitalize }} {% endfor %}{% endcapture %}
+
+	{{ title }}
+
 	{% endfor %}
 	</table>
 
