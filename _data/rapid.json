@@ -1,0 +1,56 @@
+[
+  {
+    "id": 38375199,
+    "name": "postman-collection-transformer",
+    "full_name": "postmanlabs/postman-collection-transformer",
+    "description": "Perform rapid conversion and validation of JSON structure between Postman Collection Format v1 and v2.",
+    "fork": false,
+    "created_at": "2015-07-01T14:18:45Z",
+    "updated_at": "2020-03-27T09:11:40Z",
+    "stargazers_count": 16,
+    "watchers_count": 16,
+    "forks": 18,
+    "watchers": 16,
+    "score": 1,
+    "owner_id": 10251060,
+    "owner_login": "postmanlabs",
+    "owner_avatar_url": "https://avatars2.githubusercontent.com/u/10251060?v=4",
+    "pulled": 1,
+    "tags": [
+      "form",
+      "version",
+      "struct",
+      "structure",
+      "between",
+      "validation"
+    ]
+  },
+  {
+    "id": 242803598,
+    "name": "awesome-postman-collections",
+    "full_name": "elliotberry/awesome-postman-collections",
+    "description": "An attempt to exhaustively list Postman collections for rapid API development.",
+    "fork": false,
+    "created_at": "2020-02-24T17:51:59Z",
+    "updated_at": "2020-02-25T19:51:17Z",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks": 0,
+    "watchers": 1,
+    "score": 1,
+    "owner_id": 9747139,
+    "owner_login": "elliotberry",
+    "owner_avatar_url": "https://avatars1.githubusercontent.com/u/9747139?v=4",
+    "pulled": 1,
+    "tags": [
+      "collect",
+      "collection",
+      "collections",
+      "develop",
+      "list",
+      "development",
+      "attempt",
+      "exhaustively"
+    ]
+  }
+]
