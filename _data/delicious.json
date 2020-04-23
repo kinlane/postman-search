@@ -1,0 +1,57 @@
+[
+  {
+    "user": "amuramoto",
+    "repo": "messenger-platform-postman-collection",
+    "pulled": "User",
+    "id": 112262247,
+    "name": "messenger-platform-postman-collection",
+    "full_name": "amuramoto/messenger-platform-postman-collection",
+    "description": "A delicious Postman collection for all your Messenger Platform needs.",
+    "fork": false,
+    "created_at": "2017-11-27T23:48:06Z",
+    "updated_at": "2020-02-17T17:14:26Z",
+    "forks": 25,
+    "open_issues": 0,
+    "watchers": 144,
+    "network_count": 25,
+    "subscribers_count": 6,
+    "owner_id": 4483777,
+    "owner_login": "amuramoto",
+    "owner_avatar_url": "https://avatars2.githubusercontent.com/u/4483777?v=4",
+    "owner_type": "User",
+    "tags": [
+      "collect",
+      "collection",
+      "form",
+      "need",
+      "esse",
+      "needs",
+      "delicious"
+    ]
+  },
+  {
+    "id": 126584907,
+    "name": "zemanta-api-postman-collection",
+    "full_name": "xy1m/zemanta-api-postman-collection",
+    "description": "A delicious Postman collection for all your Zemanta API needs.",
+    "fork": false,
+    "created_at": "2018-03-24T09:35:45Z",
+    "updated_at": "2019-04-30T23:48:34Z",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks": 0,
+    "watchers": 0,
+    "score": 1,
+    "owner_id": 3718563,
+    "owner_login": "xy1m",
+    "owner_avatar_url": "https://avatars3.githubusercontent.com/u/3718563?v=4",
+    "pulled": 1,
+    "tags": [
+      "collect",
+      "collection",
+      "need",
+      "needs",
+      "delicious"
+    ]
+  }
+]
