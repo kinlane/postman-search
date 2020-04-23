@@ -1,0 +1,27 @@
+[
+  {
+    "id": 135077665,
+    "name": "explore-with-postman",
+    "full_name": "ambertests/explore-with-postman",
+    "description": "Various materials for Exploratory API Testing with Postman workshops",
+    "fork": false,
+    "created_at": "2018-05-27T20:03:30Z",
+    "updated_at": "2020-03-29T13:45:45Z",
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "forks": 59,
+    "watchers": 54,
+    "score": 1,
+    "owner_id": 20446946,
+    "owner_login": "ambertests",
+    "owner_avatar_url": "https://avatars3.githubusercontent.com/u/20446946?v=4",
+    "pulled": 1,
+    "tags": [
+      "shop",
+      "workshop",
+      "material",
+      "workshops",
+      "materials"
+    ]
+  }
+]
